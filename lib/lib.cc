@@ -1,3 +1,3 @@
 #include <iostream>
 
-void PrintMe() { std::cout << "Foo" << std::endl; }
+void PrintMe() { std::cout << "Bar" << std::endl; }
